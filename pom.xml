@@ -13,7 +13,7 @@
 
 	<name>test-publish-1</name>
 	<description>Test publish sonatype 1</description>
-	<version>0.1.0</version>
+	<version>${revision}</version>
 
 	<licenses>
 		<license>
@@ -26,6 +26,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<fj-version>8.5.5</fj-version>
+		<revision>0.2.0</revision>
 	</properties>	
 
 	<organization>

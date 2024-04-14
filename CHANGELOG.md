@@ -7,8 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2024-04-14
+
+### Added
+
+- use of revision <https://maven.apache.org/maven-ci-friendly.html>
+
 ## [0.1.0] - 2024-04-14
 
 ### Added
 
-- normal version artifcat
+- normal version artifact
